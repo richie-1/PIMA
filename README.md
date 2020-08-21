@@ -1,0 +1,2 @@
+# PIMA
+Perceptron - PIMA dataset
